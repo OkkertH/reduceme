@@ -1,7 +1,7 @@
 Package description
 ===================
 
-Importat keywords
+Important keywords
 -----------------
 
 Throughout this document, the following keywords will be employed very often:
